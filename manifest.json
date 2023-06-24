@@ -1,7 +1,7 @@
 {
     "name": "Joheka Classic Tips",
     "short_name": "Joheka Tips",
-    "start_url": ".",
+    "start_url": "./pwa",
     "background_color": "black",
     "theme_color": "red",
     "display": "standalone",
